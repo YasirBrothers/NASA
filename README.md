@@ -1,1 +1,1 @@
-nasa-yasir-smit.netlify.app
+https://nasa-yasir-smit.netlify.app
